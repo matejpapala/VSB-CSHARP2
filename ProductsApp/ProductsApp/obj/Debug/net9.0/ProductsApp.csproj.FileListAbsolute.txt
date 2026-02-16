@@ -1,0 +1,14 @@
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/bin/Debug/net9.0/ProductsApp
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/bin/Debug/net9.0/ProductsApp.deps.json
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/bin/Debug/net9.0/ProductsApp.runtimeconfig.json
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/bin/Debug/net9.0/ProductsApp.dll
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/bin/Debug/net9.0/ProductsApp.pdb
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/ProductsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/ProductsApp.AssemblyInfoInputs.cache
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/ProductsApp.AssemblyInfo.cs
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/ProductsApp.csproj.CoreCompileInputs.cache
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/ProductsApp.dll
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/refint/ProductsApp.dll
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/ProductsApp.pdb
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/ProductsApp.genruntimeconfig.cache
+/Users/matejpapala/Downloads/ProductsApp/ProductsApp/obj/Debug/net9.0/ref/ProductsApp.dll
