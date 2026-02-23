@@ -1,0 +1,12 @@
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/plugins/Debug/net9.0/Shapes.deps.json
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/plugins/Debug/net9.0/Shapes.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/plugins/Debug/net9.0/Shapes.pdb
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/Shapes.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/Shapes.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/Shapes.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/Shapes.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/refint/Shapes.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/Shapes.pdb
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Shapes/obj/Debug/net9.0/ref/Shapes.dll

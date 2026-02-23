@@ -1,0 +1,12 @@
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/plugins/Debug/net9.0/Rectangle.deps.json
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/plugins/Debug/net9.0/Rectangle.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/plugins/Debug/net9.0/Rectangle.pdb
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/Rectangle.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/Rectangle.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/Rectangle.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/Rectangle.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/Rectangle.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/refint/Rectangle.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/Rectangle.pdb
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/Rectangle/obj/Debug/net9.0/ref/Rectangle.dll

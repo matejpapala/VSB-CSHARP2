@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/bin/Debug/net9.0/ReflectionApp
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/bin/Debug/net9.0/ReflectionApp.deps.json
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/bin/Debug/net9.0/ReflectionApp.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/bin/Debug/net9.0/ReflectionApp.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/bin/Debug/net9.0/ReflectionApp.pdb
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ReflectionApp.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ReflectionApp.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ReflectionApp.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ReflectionApp.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ReflectionApp.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/refint/ReflectionApp.dll
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ReflectionApp.pdb
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ReflectionApp.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP2/Reflection/ReflectionApp/obj/Debug/net9.0/ref/ReflectionApp.dll
