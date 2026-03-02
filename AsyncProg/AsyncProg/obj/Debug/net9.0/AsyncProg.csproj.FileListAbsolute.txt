@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/bin/Debug/net9.0/AsyncProg
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/bin/Debug/net9.0/AsyncProg.deps.json
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/bin/Debug/net9.0/AsyncProg.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/bin/Debug/net9.0/AsyncProg.dll
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/bin/Debug/net9.0/AsyncProg.pdb
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/AsyncProg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/AsyncProg.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/AsyncProg.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/AsyncProg.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/AsyncProg.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/AsyncProg.dll
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/refint/AsyncProg.dll
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/AsyncProg.pdb
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/AsyncProg.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP2/AsyncProg/AsyncProg/obj/Debug/net9.0/ref/AsyncProg.dll
