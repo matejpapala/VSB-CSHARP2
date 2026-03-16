@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModelViewController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41180188da01b1c3e260c82676048f8294356394")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7a37751f277211478b418a10b1c5db35efc2bf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModelViewController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModelViewController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

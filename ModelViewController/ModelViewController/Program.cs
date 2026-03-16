@@ -11,8 +11,16 @@ public class Program
         // Add services to the container.
         builder.Services.AddControllersWithViews();
         builder.Services.AddScoped<ProductService>();
+        builder.Services.AddScoped<CarService>();
+
+        builder.Services.AddSession();
+        builder.Services.AddDistributedMemoryCache();
+
+        builder.Services.AddHttpContextAccessor();
 
         var app = builder.Build();
+
+        app.UseSession();
 
         // Configure the HTTP request pipeline.
         if (!app.Environment.IsDevelopment())
