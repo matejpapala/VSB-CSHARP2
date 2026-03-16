@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ModelViewController</title>
+</head>
+<body>
+    <ul>
+        <li><a asp-action="Index" asp-controller="Home"">Home</a></li>
+        <li><a asp-action="Index" asp-controller="Product"">Products list</a></li>
+        <li><a asp-action="Detail" asp-controller="Product"">Details</a></li>
+    </ul>
+      @RenderBody()
+</body>
+</html>
