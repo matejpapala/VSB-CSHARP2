@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eu16/BXuopE=",
+  "success": true,
+  "projectFilePath": "/Users/matejpapala/School/VSB-CSHARP2/Database/databaseWork/databaseWork.csproj",
+  "expectedPackageFiles": [
+    "/Users/matejpapala/.nuget/packages/dapper/2.1.72/dapper.2.1.72.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/dapper.simplecrud/2.3.0/dapper.simplecrud.2.3.0.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/microsoft.csharp/4.4.0/microsoft.csharp.4.4.0.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/microsoft.data.sqlite.core/10.0.5/microsoft.data.sqlite.core.10.0.5.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/sqlitepclraw.bundle_green/2.1.11/sqlitepclraw.bundle_green.2.1.11.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/sqlitepclraw.core/2.1.11/sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.11/sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.11/sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
