@@ -1,0 +1,30 @@
+﻿@model PridavaniViewModel
+
+@{
+    ViewData["Title"] = "PRIDANI FIRMY";
+}
+
+
+<form method="post" asp-action="Pridat">
+    <label asp-for="Name">Jmeno:</label>
+    <input asp-for="Name"/>
+    <span asp-validation-for="Name"></span>
+
+    <label asp-for="Dic">Dic:</label>
+    <input asp-for="Dic" />
+    <span asp-validation-for="Dic"></span>
+    <label asp-for="PocetZamestnancu">Pocet zamestnancu:</label>
+    <input asp-for="PocetZamestnancu" type="number"/>
+    <span asp-validation-for="PocetZamestnancu"></span>
+    <select asp-for="PravniForma">
+        <option value="0">s.r.o.</option>
+        <option value="1">a.s.</option>
+        <option value="2">OSVC</option>
+        <option value="3">k.s.</option>
+    </select>
+    <label asp-for="Poznamka">Poznamka:</label>
+    <input asp-for="Poznamka"/>
+    <span asp-validation-for="Poznamka"></span>
+
+    <button type="submit"></button>
+</form>

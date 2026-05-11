@@ -1,0 +1,12 @@
+﻿@model IEnumerable<XmlModel>
+
+
+<div class="list-group">
+    @foreach(var item in Model)
+    {
+        <h2 class="accordion-header">@item.Name</h2>
+        <p class="align-content-center">@item.Price</p>
+        <a asp-action="Meal" asp-route-altId = "@item.AltId" asp-route-Date="@item.Date" class="link-info">Detail</a>
+        <br />
+    }
+</div>

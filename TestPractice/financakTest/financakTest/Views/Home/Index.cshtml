@@ -1,0 +1,14 @@
+﻿@model IEnumerable<FInancakModel>
+
+@{
+    ViewData["Title"] = "Financak";
+}
+
+<h2 class="text-center">Financaky</h2>
+
+<div class="list-group">
+    @foreach(var item in Model)
+    {
+        <a asp-action="Detail" asp-route-id="@item.chodnota" class="list-group-item">@item.text</a>
+    }
+</div>

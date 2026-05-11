@@ -1,0 +1,11 @@
+﻿@model FormModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="get" asp-action="SecondPage">
+    <label asp-for="Psc">PSC:</label>
+    <input asp-for="Psc" />
+    <span asp-validation-for="Psc"></span>
+    <button type="submit" class="btn btn-primary">Odeslat</button>
+</form>

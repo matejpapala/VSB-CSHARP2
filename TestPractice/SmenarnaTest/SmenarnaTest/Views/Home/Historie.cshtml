@@ -1,0 +1,38 @@
+﻿@model IEnumerable<SmenarnaTest.Models.ExchangeRecord>
+
+@{
+    ViewData["Title"] = "Historie";
+}
+
+<div class="text-center">
+    <h2>Historie smen</h2>
+</div>
+
+<table class="table table-striped table-bordered mt-4">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Jmeno</th>
+            <th>Email</th>
+            <th>Mena</th>
+            <th>Castka</th>
+            <th>Vysledek</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Jmeno</td>
+                <td>@item.ZdrojovaMena</td>
+                <td>@item.Castka</td>
+                <td>@Math.Round(item.VyslednaCastka, 2) KC</td>
+            </tr>
+        }
+    </tbody>
+
+    <div class="mt-4">
+        <a asp-action="Index" class="btn btn-secondary">Zpět na zadání</a>
+    </div>
+</table>

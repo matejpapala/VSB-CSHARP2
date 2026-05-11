@@ -1,0 +1,12 @@
+﻿@model InputViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post">
+    <label asp-for="Date" class="col-form-label"></label>
+    <input asp-for="Date" class="input-group"/>
+    <span asp-validation-for="Date" class="alert-danger"></span>
+    <button type="submit" class="btn btn-primary">Odeslat</button>
+</form>

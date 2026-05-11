@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\CSharp\\variantaF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\models\\formviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\models\\formviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\views\\home\\meal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\views\\home\\meal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\services\\menzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\services\\menzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\views\\home\\menza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\views\\home\\menza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\models\\xmlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\models\\xmlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\models\\inputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\models\\inputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|c:\\dev\\csharp\\variantaf\\variantaf\\variantaf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD50D1D5-4BA1-33A7-CC80-0D3265DA2FE6}|variantaF\\variantaF.csproj|solutionrelative:variantaf\\variantaf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "variantaF.csproj",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\variantaF.csproj",
+              "RelativeDocumentMoniker": "variantaF\\variantaF.csproj",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\variantaF.csproj",
+              "RelativeToolTip": "variantaF\\variantaF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T13:37:19.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "variantaF\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "variantaF\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T14:01:37.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Models\\FormViewModel.cs",
+              "RelativeDocumentMoniker": "variantaF\\Models\\FormViewModel.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Models\\FormViewModel.cs",
+              "RelativeToolTip": "variantaF\\Models\\FormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T13:58:46.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meal.cshtml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Views\\Home\\Meal.cshtml",
+              "RelativeDocumentMoniker": "variantaF\\Views\\Home\\Meal.cshtml",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Views\\Home\\Meal.cshtml",
+              "RelativeToolTip": "variantaF\\Views\\Home\\Meal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T13:55:06.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XmlModel.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Models\\XmlModel.cs",
+              "RelativeDocumentMoniker": "variantaF\\Models\\XmlModel.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Models\\XmlModel.cs",
+              "RelativeToolTip": "variantaF\\Models\\XmlModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:06:39.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Program.cs",
+              "RelativeDocumentMoniker": "variantaF\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Program.cs",
+              "RelativeToolTip": "variantaF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:03:09.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenzaService.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Services\\MenzaService.cs",
+              "RelativeDocumentMoniker": "variantaF\\Services\\MenzaService.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Services\\MenzaService.cs",
+              "RelativeToolTip": "variantaF\\Services\\MenzaService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:01:35.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menza.cshtml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Views\\Home\\Menza.cshtml",
+              "RelativeDocumentMoniker": "variantaF\\Views\\Home\\Menza.cshtml",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Views\\Home\\Menza.cshtml",
+              "RelativeToolTip": "variantaF\\Views\\Home\\Menza.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T11:53:38.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "variantaF\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "variantaF\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:50:09.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "variantaF\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "variantaF\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:49:31.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Models\\InputViewModel.cs",
+              "RelativeDocumentMoniker": "variantaF\\Models\\InputViewModel.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Models\\InputViewModel.cs",
+              "RelativeToolTip": "variantaF\\Models\\InputViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:46:14.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaF\\variantaF\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "variantaF\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dev\\CSharp\\variantaF\\variantaF\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "variantaF\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T11:45:01.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\CSharp\\SmenarnaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\views\\home\\historie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\views\\home\\historie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\models\\exchangerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\models\\exchangerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\services\\currencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\services\\currencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\models\\exchangeformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\models\\exchangeformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\models\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\models\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|c:\\dev\\csharp\\smenarnatest\\smenarnatest\\smenarnatest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0AAA16A-A4ED-7500-2784-37F8E7C70099}|SmenarnaTest\\SmenarnaTest.csproj|solutionrelative:smenarnatest\\smenarnatest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Historie.cshtml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Views\\Home\\Historie.cshtml",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Views\\Home\\Historie.cshtml",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Views\\Home\\Historie.cshtml",
+              "RelativeToolTip": "SmenarnaTest\\Views\\Home\\Historie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T16:20:52.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRecord.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Models\\ExchangeRecord.cs",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Models\\ExchangeRecord.cs",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Models\\ExchangeRecord.cs",
+              "RelativeToolTip": "SmenarnaTest\\Models\\ExchangeRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T16:11:53.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "SmenarnaTest\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T15:49:53.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SmenarnaTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T12:58:09.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SmenarnaTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:16:25.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExchangeFormModel.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Models\\ExchangeFormModel.cs",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Models\\ExchangeFormModel.cs",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Models\\ExchangeFormModel.cs",
+              "RelativeToolTip": "SmenarnaTest\\Models\\ExchangeFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:10:49.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Program.cs",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Program.cs",
+              "RelativeToolTip": "SmenarnaTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:06:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyServices.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Services\\CurrencyServices.cs",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Services\\CurrencyServices.cs",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Services\\CurrencyServices.cs",
+              "RelativeToolTip": "SmenarnaTest\\Services\\CurrencyServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T16:30:13.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmenarnaTest.csproj",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\SmenarnaTest.csproj",
+              "RelativeDocumentMoniker": "SmenarnaTest\\SmenarnaTest.csproj",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\SmenarnaTest.csproj",
+              "RelativeToolTip": "SmenarnaTest\\SmenarnaTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T16:29:44.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SmenarnaTest\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T16:22:31.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExchangeRateResponse.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Models\\ExchangeRateResponse.cs",
+              "RelativeDocumentMoniker": "SmenarnaTest\\Models\\ExchangeRateResponse.cs",
+              "ToolTip": "C:\\dev\\CSharp\\SmenarnaTest\\SmenarnaTest\\Models\\ExchangeRateResponse.cs",
+              "RelativeToolTip": "SmenarnaTest\\Models\\ExchangeRateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T16:22:29.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

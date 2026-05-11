@@ -1,0 +1,37 @@
+﻿<Window x:Class="WPFTEST.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTEST"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Vyberte mesto:" VerticalAlignment="Center"></Label>
+                <ComboBox x:Name="MestoComboBox" Width="150" Margin="0,0,0,10" SelectedIndex="0">
+                    <ComboBoxItem Content="Ostrava"></ComboBoxItem>
+                    <ComboBoxItem Content="Brno"></ComboBoxItem>
+                    <ComboBoxItem Content="Praha"></ComboBoxItem>
+                </ComboBox>
+                <Button Content="Stahnout data" Width="100" Click="PotvrditButton_Click"></Button>
+            </StackPanel>
+            <DataGrid x:Name="VysledkyDataGrid" AutoGenerateColumns="false" Height="300" CanUserAddRows="false">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nazev" Binding="{Binding Nazev}" Width="*"></DataGridTextColumn>
+                    <DataGridTextColumn Header="ICO" Binding="{Binding ico}" Width="100"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Zapis Datum" Binding="{Binding ZapisDatum}" Width="150"></DataGridTextColumn>
+
+                    <DataGridTemplateColumn Header="Akce">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Upravit" Click="UpravitButton_Click" Padding="5,0"></Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

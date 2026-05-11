@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<searchresults querystring="73514, cz">
+	<place place_id="378238367" ref="735 14" lat="49.8649988" lon="18.4221988" boundingbox="49.8200728,49.9099243,18.3526999,18.4917037" place_rank="21" address_rank="5" display_name="735 14, Poruba u Orlové, Orlová, okres Karviná, Moravskoslezsky kraj, Moravskoslezsko, Cesko" class="place" type="postcode">
+		<postcode>735 14</postcode>
+		<city_district>Poruba u Orlové</city_district>
+		<town>Orlová</town>
+		<county>okres Karviná</county>
+		<state>Moravskoslezsky kraj</state>
+		<region>Moravskoslezsko</region>
+		<country>Cesko</country>
+		<country_code>cz</country_code>
+	</place>
+</searchresults>

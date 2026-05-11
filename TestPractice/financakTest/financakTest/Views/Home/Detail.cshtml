@@ -1,0 +1,36 @@
+﻿@model DetailViewModel
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+<h2 class="card-header">Detail</h2>
+
+<p>
+    Ziskali jsme hodnotu: @ViewBag.PassedValue
+</p>
+
+<form>
+    <label class="col-form-label" asp-for="Name">Jmeno:</label>
+    <input class="input-group" asp-for="Name"/>
+    <span asp-validation-for="Name" class="alert-danger"></span>
+
+    <label class="col-form-label" asp-for="Email">Email:</label>
+    <input class="input-group" asp-for="Email" />
+    <span asp-validation-for="Email" class="alert-danger"></span>
+
+    <label class="col-form-label" asp-for="Sex">Pohlavi:</label>
+    <select asp-for="Sex">
+        <option value="Muz">Muz</option>
+        <option value="Zena">Zena</option>
+        <option value="Jine">Jine</option>
+    </select>
+    <span asp-validation-for="Sex" class="alert-danger"></span>
+
+    <label class="form-label" asp-for="Note"></label>
+    <input class="input-group" asp-for="Note"/>
+    <span asp-validation-for="Note" class="alert-danger"></span>
+    <button type="submit" class="btn btn-primary" >Odeslat</button>
+</form>
+<a asp-action="Index" class="btn btn-primary">Back</a>

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\CSharp\\WPFTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|c:\\dev\\csharp\\wpftest\\wpftest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|solutionrelative:wpftest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|c:\\dev\\csharp\\wpftest\\wpftest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|solutionrelative:wpftest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|c:\\dev\\csharp\\wpftest\\wpftest\\subjekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|solutionrelative:wpftest\\subjekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|c:\\dev\\csharp\\wpftest\\wpftest\\editdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|solutionrelative:wpftest\\editdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|c:\\dev\\csharp\\wpftest\\wpftest\\editdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56B9A201-0D5B-4D79-9E94-85CF87056705}|WPFTEST\\WPFTEST.csproj|solutionrelative:wpftest\\editdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditDialog.xaml.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\EditDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFTEST\\EditDialog.xaml.cs",
+              "ToolTip": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\EditDialog.xaml.cs",
+              "RelativeToolTip": "WPFTEST\\EditDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T17:15:47.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditDialog.xaml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\EditDialog.xaml",
+              "RelativeDocumentMoniker": "WPFTEST\\EditDialog.xaml",
+              "ToolTip": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\EditDialog.xaml",
+              "RelativeToolTip": "WPFTEST\\EditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-07T17:13:40.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subjekt.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\Subjekt.cs",
+              "RelativeDocumentMoniker": "WPFTEST\\Subjekt.cs",
+              "ToolTip": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\Subjekt.cs",
+              "RelativeToolTip": "WPFTEST\\Subjekt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T16:53:50.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFTEST\\MainWindow.xaml",
+              "ToolTip": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\MainWindow.xaml",
+              "RelativeToolTip": "WPFTEST\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-07T16:41:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFTEST\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\dev\\CSharp\\WPFTEST\\WPFTEST\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFTEST\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T16:41:14.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\CSharp\\variantaD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|c:\\dev\\csharp\\variantad\\variantad\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|solutionrelative:variantad\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|c:\\dev\\csharp\\variantad\\variantad\\views\\home\\secondpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|solutionrelative:variantad\\views\\home\\secondpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|c:\\dev\\csharp\\variantad\\variantad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|solutionrelative:variantad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|c:\\dev\\csharp\\variantad\\variantad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|solutionrelative:variantad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|c:\\dev\\csharp\\variantad\\variantad\\models\\secondformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|solutionrelative:variantad\\models\\secondformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|c:\\dev\\csharp\\variantad\\variantad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|solutionrelative:variantad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|c:\\dev\\csharp\\variantad\\variantad\\models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1E631F-79B8-2379-DE2F-DE67449F11F8}|variantaD\\variantaD.csproj|solutionrelative:variantad\\models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaD\\variantaD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "variantaD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dev\\CSharp\\variantaD\\variantaD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "variantaD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-10T08:48:42.687Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecondFormModel.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaD\\variantaD\\Models\\SecondFormModel.cs",
+              "RelativeDocumentMoniker": "variantaD\\Models\\SecondFormModel.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaD\\variantaD\\Models\\SecondFormModel.cs",
+              "RelativeToolTip": "variantaD\\Models\\SecondFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:35:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaD\\variantaD\\Program.cs",
+              "RelativeDocumentMoniker": "variantaD\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaD\\variantaD\\Program.cs",
+              "RelativeToolTip": "variantaD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:17:26.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaD\\variantaD\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "variantaD\\Services\\ApiService.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaD\\variantaD\\Services\\ApiService.cs",
+              "RelativeToolTip": "variantaD\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:16:22.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondPage.cshtml",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaD\\variantaD\\Views\\Home\\SecondPage.cshtml",
+              "RelativeDocumentMoniker": "variantaD\\Views\\Home\\SecondPage.cshtml",
+              "ToolTip": "C:\\dev\\CSharp\\variantaD\\variantaD\\Views\\Home\\SecondPage.cshtml",
+              "RelativeToolTip": "variantaD\\Views\\Home\\SecondPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-10T08:57:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaD\\variantaD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "variantaD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaD\\variantaD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "variantaD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:56:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormModel.cs",
+              "DocumentMoniker": "C:\\dev\\CSharp\\variantaD\\variantaD\\Models\\FormModel.cs",
+              "RelativeDocumentMoniker": "variantaD\\Models\\FormModel.cs",
+              "ToolTip": "C:\\dev\\CSharp\\variantaD\\variantaD\\Models\\FormModel.cs",
+              "RelativeToolTip": "variantaD\\Models\\FormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:51:31.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
